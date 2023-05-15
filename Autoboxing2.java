@@ -9,3 +9,7 @@ public class Autoboxing2{
         System.out.println("Incremented value: " + incrementedValue);
     }
 }
+//the 'incrementNumber()' method takes an 'Integer' object as a parameter and returns
+//an 'Integer' object by incrementing the input value. We pass an 'int' primitive
+//('primitiveValue') as an argument, and autoboxing automatically converts it to an 
+//'Integer' object when returning the incremented value
