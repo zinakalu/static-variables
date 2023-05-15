@@ -16,3 +16,4 @@ public class Autoboxing3{
     }
 }
 
+//the 'printResult()' method takes a 'Boolean' object as a parameter. We compare
